@@ -1,0 +1,33 @@
+{
+   "entities":{
+      "Q40843":{
+         "_id":"Q40843",
+         "_rev":"",
+         "itName":"croce",
+         "enName":"cross",
+         "itDesc":"figura geometrica",
+         "enDesc":"geometrical figure",
+         "image":"https:\/\/tool.dlnarratives.eu\/images\/concludingRemarks.png",
+         "type":[
+            "other"
+         ],
+         "role":[
+            
+         ]
+      }
+   },
+   "narra":{
+      "id":"M_255",
+      "_id":"A1",
+      "name":"Rewilding (Nature Restoration) in Inverness and Nairn LAU1",
+      "author":"MOVING",
+      "idNarra":"M_255",
+      "country": {
+	    "id":"https:\/\/www.wikidata.org\/wiki\/Q145",
+		"name":"United Kingdom",
+		"description":"country in north-west Europe"
+	  },
+      "wikiCountry":"https:\/\/www.wikidata.org\/wiki\/Q145"
+   },
+   "events":{}
+}

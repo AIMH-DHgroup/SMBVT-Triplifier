@@ -1,0 +1,2420 @@
+{
+   "entities":{
+      "U16817257039235487298":{
+         "_id":"U16817257039235487298",
+         "type":[
+            "Q5"
+         ],
+         "enDesc":"Prestatore lucchese del XII secolo ",
+         "enName":"Ildebrando del fu Ceriolo",
+         "itDesc":"Prestatore lucchese del XII secolo ",
+         "itName":"Ildebrando del fu Ceriolo"
+      },
+      "Q16617548":{
+         "_id":"Q16617548",
+         "role":[
+            "Q201559",
+            "Q201559",
+            "Q201559"
+         ],
+         "type":[
+            "Q5",
+            "Q35120",
+            "Q488383"
+         ],
+         "image":"",
+         "enDesc":"Italian privateer",
+         "enName":"Trapelicino",
+         "itDesc":"corsaro e militare italiano",
+         "itName":"Trapelicino",
+         "birthPlace":"Q13375"
+      },
+      "Q16869":{
+         "_id":"Q16869",
+         "role":[
+            
+         ],
+         "type":[
+            "Q7184903",
+            "Q386724",
+            "Q17334923",
+            "Q35120",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Byzantine%20Constantinople-en.png",
+         "enDesc":"capital of the Eastern Roman, Latin and Ottoman Empires, currently Istanbul, Turkey",
+         "enName":"Constantinople",
+         "itDesc":"capitale dell'Impero romano d'Oriente",
+         "itName":"Costantinopoli"
+      },
+      "Q38882":{
+         "_id":"Q38882",
+         "role":[
+            
+         ],
+         "type":[
+            "Q488383",
+            "Q27096213",
+            "Q17334923",
+            "Q35120"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Mezzogiorno%20d%27Italia.jpg",
+         "enDesc":"part of the Mediterranean Sea off the western coast of Italy",
+         "enName":"Tyrrhenian Sea",
+         "itDesc":"parte del mar Mediterraneo",
+         "itName":"mar Tirreno"
+      },
+      "Q4918":{
+         "_id":"Q4918",
+         "role":[
+            
+         ],
+         "type":[
+            "Q488383",
+            "Q27096213",
+            "Q17334923",
+            "Q35120"
+         ],
+         "image":"",
+         "enDesc":"sea between Europe, Africa and Asia",
+         "enName":"Mediterranean Sea",
+         "itDesc":"bacino marino compreso tra l'Africa settentrionale, l'Europa meridionale e l'Asia occidentale",
+         "itName":"mar Mediterraneo"
+      },
+      "Q13375":{
+         "_id":"Q13375",
+         "role":[
+            
+         ],
+         "type":[
+            "Q7184903",
+            "Q386724",
+            "Q17334923",
+            "Q35120",
+            "Q43229",
+            "Q488383",
+            "Q27096213",
+            "Q7184903",
+            "Q386724",
+            "Q17334923",
+            "Q35120",
+            "Q43229",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pisa%20-%20veduta%20dall%27aereo%204.JPG",
+         "enDesc":"city in Tuscany, Central Italy",
+         "enName":"Pisa",
+         "itDesc":"comune italiano, capoluogo dell'omonima provincia in Toscana",
+         "itName":"Pisa"
+      },
+      "Q19676":{
+         "_id":"Q19676",
+         "role":[
+            
+         ],
+         "type":[
+            "Q35120",
+            "Q186081",
+            "Q488383",
+            "Q7184903"
+         ],
+         "image":"",
+         "enDesc":"year",
+         "enName":"1165",
+         "itDesc":"anno",
+         "itName":"1165"
+      },
+      "Q15":{
+         "_id":"Q15",
+         "role":[
+            
+         ],
+         "type":[
+            "Q17334923",
+            "Q35120",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Africa%20satellite%20orthographic.jpg",
+         "enDesc":"continent on the Earth's northern and southern hemispheres",
+         "enName":"Africa",
+         "itDesc":"continente",
+         "itName":"Africa"
+      },
+      "Q75613":{
+         "_id":"Q75613",
+         "role":[
+            
+         ],
+         "type":[
+            "Q488383",
+            "Q27096213",
+            "Q17334923",
+            "Q43229",
+            "Q35120",
+            "Q7184903",
+            "Q8436"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/C%C3%BApula%20almor%C3%A1vide%20%28Marrakech%29%20exterior.jpg",
+         "enDesc":"Berber dynasty that once ruled over Al-Andalus and Maghreb",
+         "enName":"Almoravid dynasty",
+         "itDesc":"dinastia berbera che domin\u00f2 Marocco e Spagna dal 1040 al 1147",
+         "itName":"Almoravidi",
+         "foundation":"1040"
+      },
+      "Q7061":{
+         "_id":"Q7061",
+         "role":[
+            
+         ],
+         "type":[
+            "Q35120",
+            "Q186081"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Abbaye%20de%20Val-Dieu%20%28Belgium%20-%20Wallonie%20-%20Aubel%29.jpg",
+         "enDesc":"century",
+         "enName":"12th century",
+         "itDesc":"periodo che va dal 1101 al 1200",
+         "itName":"XII secolo",
+         "foundation2":"1101"
+      },
+      "Q87":{
+         "_id":"Q87",
+         "role":[
+            
+         ],
+         "type":[
+            "Q43229",
+            "Q35120",
+            "Q7184903",
+            "Q488383",
+            "Q27096213",
+            "Q386724",
+            "Q17334923"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Alexandria%20-%20Egypt.jpg",
+         "enDesc":"second largest city in Egypt",
+         "enName":"Alexandria",
+         "itDesc":"seconda citt\u00e0 pi\u00f9 grande dell'Egitto",
+         "itName":"Alessandria d'Egitto",
+         "foundation":"-0330"
+      },
+      "Q238179":{
+         "_id":"Q238179",
+         "role":[
+            
+         ],
+         "type":[
+            "Q7184903",
+            "Q1190554",
+            "Q35120",
+            "Q488383",
+            "Q386724",
+            "Q15474042"
+         ],
+         "image":"",
+         "enDesc":"Wikimedia list of persons by position held",
+         "enName":"list of Aragonese monarchs",
+         "itDesc":"lista di un progetto Wikimedia",
+         "itName":"sovrani d'Aragona"
+      },
+      "Q188315":{
+         "_id":"Q188315",
+         "role":[
+            
+         ],
+         "type":[
+            "Q43229",
+            "Q7184903",
+            "Q7184903",
+            "Q386724",
+            "Q386724",
+            "Q488383",
+            "Q27096213",
+            "Q17334923",
+            "Q17334923",
+            "Q7184903",
+            "Q35120",
+            "Q35120",
+            "Q43229",
+            "Q43229",
+            "Q386724",
+            "Q488383",
+            "Q488383",
+            "Q27096213",
+            "Q27096213",
+            "Q17334923",
+            "Q35120"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Montale%20Portovenere.jpg",
+         "enDesc":"Italian comune",
+         "enName":"Porto Venere",
+         "itDesc":"comune italiano",
+         "itName":"Porto Venere"
+      },
+      "Q23482":{
+         "_id":"Q23482",
+         "role":[
+            
+         ],
+         "type":[
+            "Q35120",
+            "Q7184903",
+            "Q488383",
+            "Q27096213",
+            "Q386724",
+            "Q17334923",
+            "Q43229"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Aerial%20view%20of%20Marseille%2004.jpg",
+         "enDesc":"commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+         "enName":"Marseille",
+         "itDesc":"comune francese",
+         "itName":"Marsiglia",
+         "foundation":"-0599"
+      },
+      "Q65997":{
+         "_id":"Q65997",
+         "role":[
+            
+         ],
+         "type":[
+            "Q386724",
+            "Q1190554",
+            "Q5127848",
+            "Q35120",
+            "Q488383",
+            "Q7184903"
+         ],
+         "image":"",
+         "enDesc":"in Sunni Islam, political\u2013religious leader regarded as the successor of Muhammad and the leader of the ummah",
+         "enName":"Caliph",
+         "itDesc":"vicario o successore di Maometto alla guida politica e spirituale della comunit\u00e0 islamica universale",
+         "itName":"califfo",
+         "foundation":"2133"
+      },
+      "Q125482":{
+         "_id":"Q125482",
+         "role":[
+            
+         ],
+         "type":[
+            "Q7184903",
+            "Q1190554",
+            "Q5127848",
+            "Q35120",
+            "Q488383"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Prayer%20in%20Cairo%201865.jpg",
+         "enDesc":"Islamic leadership position",
+         "enName":"Imam",
+         "itDesc":"figura religiosa islamica",
+         "itName":"imam"
+      },
+      "Q105763":{
+         "_id":"Q105763",
+         "role":[
+            
+         ],
+         "type":[
+            "Q7184903",
+            "Q35120",
+            "Q488383"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Erhard%20Reuwich%20Sarazenen%201486.png",
+         "enDesc":"Medieval European term for Muslims and\/or people who lived in desert areas, specifically Arabia",
+         "enName":"Saracen",
+         "itDesc":"termine che indica le popolazioni provenienti dalla penisola araba o pi\u00f9 in generale i musulmani",
+         "itName":"Saraceni"
+      },
+      "Q175240":{
+         "_id":"Q175240",
+         "role":[
+            
+         ],
+         "type":[
+            "Q386724",
+            "Q5127848",
+            "Q7184903",
+            "Q1190554",
+            "Q35120",
+            "Q488383"
+         ],
+         "image":"",
+         "enDesc":"high-ranking political advisor or minister",
+         "enName":"vizier",
+         "itDesc":"consigliere politico e religioso",
+         "itName":"visir"
+      },
+      "Q160307":{
+         "_id":"Q160307",
+         "role":[
+            
+         ],
+         "type":[
+            "Q488383",
+            "Q27096213",
+            "Q7184903",
+            "Q386724",
+            "Q17334923",
+            "Q35120",
+            "Q43229"
+         ],
+         "image":"",
+         "enDesc":"Arab-Shia Islamic caliphate (909\u20131171)",
+         "enName":"Fatimid Caliphate",
+         "itDesc":"dinastia islamica (909-1171)",
+         "itName":"Fatimidi",
+         "foundation":"0909"
+      },
+      "Q703569":{
+         "_id":"Q703569",
+         "role":[
+            "Q82955",
+            "Q13655473",
+            "Q201788",
+            "Q13655473",
+            "Q82955",
+            "Q26437544",
+            "Q201788",
+            "Q26437544",
+            "Q620573",
+            "Q13655473",
+            "Q620573",
+            "Q26437544",
+            "Q1622272",
+            "Q13655473",
+            "Q1731155",
+            "Q13655473",
+            "Q1622272",
+            "Q26437544",
+            "Q1731155",
+            "Q26437544",
+            "Q82955",
+            "Q13655473",
+            "Q201788",
+            "Q13655473",
+            "Q82955",
+            "Q26437544",
+            "Q201788",
+            "Q26437544",
+            "Q620573",
+            "Q13655473",
+            "Q620573",
+            "Q26437544",
+            "Q1622272",
+            "Q13655473",
+            "Q1731155",
+            "Q13655473",
+            "Q1622272",
+            "Q26437544",
+            "Q1731155",
+            "Q26437544",
+            "Q82955",
+            "Q13655473",
+            "Q201788",
+            "Q13655473",
+            "Q82955",
+            "Q26437544",
+            "Q201788",
+            "Q26437544",
+            "Q620573",
+            "Q13655473",
+            "Q620573",
+            "Q26437544",
+            "Q1622272",
+            "Q13655473",
+            "Q1731155",
+            "Q13655473",
+            "Q1622272",
+            "Q26437544",
+            "Q1731155",
+            "Q26437544"
+         ],
+         "type":[
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120"
+         ],
+         "birth":"1806-07-07",
+         "death":"1889-07-16",
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%D0%9C%D0%B8%D0%BA%D0%B5%D0%BB%D0%B5%20%D0%90%D0%BC%D0%B0%D1%80%D0%B8.jpg",
+         "enDesc":"Italian patriot and arabist",
+         "enName":"Michele Amari",
+         "itDesc":"storico, politico e arabista italiano (1806-1889)",
+         "itName":"Michele Amari"
+      },
+      "Q201559":{
+         "_id":"Q201559",
+         "role":[
+            
+         ],
+         "type":[
+            "Q1190554",
+            "Q35120"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/014Corsario.jpg",
+         "enDesc":"private person or ship authorized by a government to attack foreign shipping",
+         "enName":"privateer",
+         "itDesc":"persona o nave autorizzata da un governo ad attaccare spedizioni straniere",
+         "itName":"corsaro"
+      },
+      "Q188924":{
+         "_id":"Q188924",
+         "role":[
+            
+         ],
+         "type":[
+            "Q35120"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Galley-knightshospitaller.jpg",
+         "enDesc":"ship mainly propelled by oars",
+         "enName":"galley",
+         "itDesc":"tipo di nave",
+         "itName":"galea"
+      },
+      "Q5364766":{
+         "_id":"Q5364766",
+         "role":[
+            
+         ],
+         "type":[
+            "Q7184903",
+            "Q1190554",
+            "Q35120",
+            "Q488383",
+            "Q386724",
+            "Q15474042"
+         ],
+         "image":"",
+         "enDesc":"Wikimedia portal",
+         "enName":"Portal:Biography",
+         "itDesc":"portale di un progetto Wikimedia",
+         "itName":"Portale:Biografie"
+      },
+      "Q311462":{
+         "_id":"Q311462",
+         "role":[
+            "Q155647",
+            "Q104162055",
+            "Q155647",
+            "Q104162055",
+            "Q155647",
+            "Q104162055",
+            "Q11063",
+            "Q104162055",
+            "Q36180",
+            "Q104162055",
+            "Q82955",
+            "Q104162055",
+            "Q201788",
+            "Q104162055",
+            "Q901402",
+            "Q104162055",
+            "Q1097498",
+            "Q104162055",
+            "Q11063",
+            "Q104162055",
+            "Q36180",
+            "Q104162055",
+            "Q82955",
+            "Q104162055",
+            "Q201788",
+            "Q104162055",
+            "Q901402",
+            "Q104162055",
+            "Q1097498",
+            "Q104162055",
+            "Q11063",
+            "Q104162055",
+            "Q36180",
+            "Q104162055",
+            "Q82955",
+            "Q104162055",
+            "Q201788",
+            "Q104162055",
+            "Q901402",
+            "Q104162055",
+            "Q1097498",
+            "Q104162055"
+         ],
+         "type":[
+            "Q35120",
+            "Q5",
+            "Q488383",
+            "Q5",
+            "Q5",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q488383",
+            "Q488383",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q35120",
+            "Q35120",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383"
+         ],
+         "birth":"1273-11-01",
+         "death":"1331-11-04",
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%D8%A3%D8%A8%D9%88%D8%A7%D9%84%D9%81%D8%AF%D8%A7%D8%A1.jpg",
+         "enDesc":"Kurdish historian, geographer and leader, Ayyubid emir of Hama 1310\u20131332",
+         "enName":"Abulfeda",
+         "itDesc":"storico",
+         "itName":"Abulfeda"
+      },
+      "Q1223267":{
+         "_id":"Q1223267",
+         "role":[
+            
+         ],
+         "type":[
+            "Q488383",
+            "Q35120",
+            "Q27096213",
+            "Q17334923"
+         ],
+         "image":"",
+         "enDesc":"body of water on the north-western coast of Italy",
+         "enName":"Gulf of La Spezia",
+         "itDesc":"",
+         "itName":"Golfo della Spezia"
+      },
+      "Q396517":{
+         "_id":"Q396517",
+         "role":[
+            
+         ],
+         "type":[
+            "Q7184903",
+            "Q1190554",
+            "Q35120",
+            "Q488383",
+            "Q386724",
+            "Q15474042"
+         ],
+         "image":"",
+         "enDesc":"Wikimedia disambiguation page",
+         "enName":"Alfonso II",
+         "itDesc":"pagina di disambiguazione di un progetto Wikimedia",
+         "itName":"Alfonso II"
+      },
+      "Q210118":{
+         "_id":"Q210118",
+         "role":[
+            
+         ],
+         "type":[
+            "Q17334923",
+            "Q35120",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Gulf%20of%20Lion%20map.png",
+         "enDesc":"bay",
+         "enName":"Gulf of Lion",
+         "itDesc":"golfo nel mediterraneo",
+         "itName":"Golfo del Leone"
+      },
+      "Q1138622":{
+         "_id":"Q1138622",
+         "role":[
+            
+         ],
+         "type":[
+            "Q1190554",
+            "Q35120",
+            "Q488383",
+            "Q7184903"
+         ],
+         "image":"",
+         "enDesc":"senior servant",
+         "enName":"seneschal",
+         "itDesc":"titolo feudale",
+         "itName":"siniscalco"
+      },
+      "Q1791716":{
+         "_id":"Q1791716",
+         "role":[
+            
+         ],
+         "type":[
+            "Q7184903",
+            "Q35120",
+            "Q488383"
+         ],
+         "image":"",
+         "enDesc":"collective term for everything that concerns the military: legal regulations, training of soldiers, etc.",
+         "enName":"military affairs",
+         "itDesc":"termine generico per tutto ci\u00f2 che ha a che fare con le forze armate o forze di polizia ad organizzazione militare di un paese, o con eventi bellici condotti da eserciti organizzati",
+         "itName":"militare"
+      },
+      "Q62825":{
+         "_id":"Q62825",
+         "role":[
+            
+         ],
+         "type":[
+            "Q27096213",
+            "Q17334923",
+            "Q35120",
+            "Q488383"
+         ],
+         "image":"",
+         "enDesc":"group of city-states, mostly in Italy, prosperous in the Middle ages",
+         "enName":"maritime republics",
+         "itDesc":"citt\u00e0 portuali italiane fiorenti durante il medioevo e l'et\u00e0 moderna",
+         "itName":"repubbliche marinare"
+      },
+      "Q47740":{
+         "_id":"Q47740",
+         "role":[
+            
+         ],
+         "type":[
+            "Q35120",
+            "Q488383",
+            "Q7184903"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Old%20Muslim%20man%201%20in%20India.jpg",
+         "enDesc":"adherents of the religion of Islam",
+         "enName":"Muslim",
+         "itDesc":"attinente all'Islam",
+         "itName":"musulmano"
+      },
+      "Q38":{
+         "_id":"Q38",
+         "role":[
+            
+         ],
+         "type":[
+            "Q7184903",
+            "Q386724",
+            "Q17334923",
+            "Q35120",
+            "Q43229",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"",
+         "enDesc":"country in Southern Europe",
+         "enName":"Italy",
+         "itDesc":"stato dell'Europa centro-meridionale, membro e cofondatore dell'Unione europea",
+         "itName":"Italia",
+         "foundation":"1946-06-18"
+      },
+      "Q215536":{
+         "_id":"Q215536",
+         "role":[
+            
+         ],
+         "type":[
+            "Q488383",
+            "Q488383",
+            "Q7184903",
+            "Q7184903",
+            "Q1190554",
+            "Q1190554",
+            "Q35120",
+            "Q35120"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/A%20merchant%20making%20up%20the%20account.jpg",
+         "enDesc":"businessperson who trades in commodities that were produced by others",
+         "enName":"merchant",
+         "itDesc":"persona che si occupa di acquistare e rivendere (ad un prezzo maggiore) un determinato bene o prodotto",
+         "itName":"commerciante"
+      },
+      "Q432":{
+         "_id":"Q432",
+         "role":[
+            
+         ],
+         "type":[
+            "Q1190554",
+            "Q35120",
+            "Q7184903",
+            "Q488383"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Mosque.jpg",
+         "enDesc":"Abrahamic monotheistic religion",
+         "enName":"Islam",
+         "itDesc":"religione monoteista fondata da Maometto nel VII secolo, basata sugli insegnamenti del libro del Corano",
+         "itName":"islam",
+         "foundation":"0610"
+      },
+      "Q285953":{
+         "_id":"Q285953",
+         "role":[
+            "Q82955",
+            "Q14979753",
+            "Q82955",
+            "Q14979753",
+            "Q82955",
+            "Q14979753"
+         ],
+         "type":[
+            "Q488383",
+            "Q5",
+            "Q35120"
+         ],
+         "birth":"1133-03-02",
+         "death":"1154-04-22",
+         "image":"",
+         "enDesc":"Fatimid Dynasty Caliph from 1149 to 1154",
+         "enName":"Al-Zafir",
+         "itDesc":"",
+         "itName":"Al-Zafir"
+      },
+      "Q9226452":{
+         "_id":"Q9226452",
+         "role":[
+            
+         ],
+         "type":[
+            "Q1190554",
+            "Q15474042",
+            "Q488383",
+            "Q35120",
+            "Q386724",
+            "Q7184903",
+            "Q4167836"
+         ],
+         "image":"",
+         "enDesc":"Wikimedia category",
+         "enName":"",
+         "itDesc":"categoria di un progetto Wikimedia",
+         "itName":"Categoria:Nati a Pisa"
+      },
+      "Q285947":{
+         "_id":"Q285947",
+         "role":[
+            "Q82955",
+            "Q14979753",
+            "Q82955",
+            "Q14979753",
+            "Q82955",
+            "Q14979753"
+         ],
+         "type":[
+            "Q35120",
+            "Q488383",
+            "Q5"
+         ],
+         "birth":"1149-06-07",
+         "death":"1160-07-30",
+         "image":"",
+         "enDesc":"Imam and Fatimid Dynasty Caliph from 1154 to 1160",
+         "enName":"Al-Faiz",
+         "itDesc":"",
+         "itName":"Al-Fa'iz bi-nasr Allah"
+      },
+      "Q11950807":{
+         "_id":"Q11950807",
+         "role":[
+            "Q49757",
+            "Q52770826",
+            "Q49757",
+            "Q52770826",
+            "Q49757",
+            "Q52770826"
+         ],
+         "type":[
+            "Q5",
+            "Q35120",
+            "Q488383"
+         ],
+         "birth":"1102",
+         "death":"1161-09-01",
+         "image":"",
+         "enDesc":"",
+         "enName":"Tala'i ibn Ruzzik",
+         "itDesc":"",
+         "itName":"Tala'i' ibn Ruzzik"
+      },
+      "Q11904692":{
+         "_id":"Q11904692",
+         "role":[
+            "Q189290",
+            "Q52770826",
+            "Q189290",
+            "Q52770826",
+            "Q189290",
+            "Q52770826"
+         ],
+         "type":[
+            "Q488383",
+            "Q5",
+            "Q35120"
+         ],
+         "birth":"1100",
+         "death":"1153-04-03",
+         "image":"",
+         "enDesc":"12th-century Fatimid military commander",
+         "enName":"Al-'Adil ibn al-Sallar",
+         "itDesc":"generale e politico arabo",
+         "itName":"Al-'Adil ibn al-Sallar"
+      },
+      "Q45393":{
+         "_id":"Q45393",
+         "role":[
+            
+         ],
+         "type":[
+            "Q1190554",
+            "Q35120"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Somali%20Pirates.jpg",
+         "enDesc":"act of robbery or criminality at sea",
+         "enName":"sea piracy",
+         "itDesc":"attivit\u00e0 illegale perpetrata per mare",
+         "itName":"pirateria"
+      },
+      "Q1094545":{
+         "_id":"Q1094545",
+         "role":[
+            
+         ],
+         "type":[
+            "Q7184903",
+            "Q35120",
+            "Q488383",
+            "Q386724"
+         ],
+         "image":"",
+         "enDesc":"Roman concept of citizenry as an entity, and by extension the city or province of the citizens",
+         "enName":"Civitas",
+         "itDesc":"termino giuridico",
+         "itName":"Civitas"
+      },
+      "U16776666987274462430":{
+         "_id":"U16776666987274462430",
+         "type":[
+            "Q7184903"
+         ],
+         "enDesc":"Guerra di tipo commerciale",
+         "enName":"Maritime warfare",
+         "itDesc":"Guerra di tipo commerciale",
+         "itName":"Maritime warfare"
+      },
+      "Q46":{
+         "_id":"Q46",
+         "role":[
+            
+         ],
+         "type":[
+            "Q17334923",
+            "Q35120",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Europe%20orthographic%20Caucasus%20Urals%20boundary%20%28with%20borders%29.svg",
+         "enDesc":"continent",
+         "enName":"Europe",
+         "itDesc":"continente della Terra",
+         "itName":"Europa"
+      },
+      "Q270189":{
+         "_id":"Q270189",
+         "role":[
+            
+         ],
+         "type":[
+            "Q488383",
+            "Q27096213",
+            "Q17334923",
+            "Q35120",
+            "Q43229"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/D%C3%A4cher%20von%20Lerici.jpg",
+         "enDesc":"comune in Liguria, Italy",
+         "enName":"Lerici",
+         "itDesc":"comune italiano",
+         "itName":"Lerici"
+      },
+      "U16817257371461085795":{
+         "_id":"U16817257371461085795",
+         "type":[
+            "Q5"
+         ],
+         "enDesc":"Prestatore lucchese del XII secolo ",
+         "enName":"Lamberto del fu Gherardo",
+         "itDesc":"Prestatore lucchese del XII secolo ",
+         "itName":"Lamberto del fu Gherardo"
+      },
+      "Q127441":{
+         "_id":"Q127441",
+         "role":[
+            
+         ],
+         "type":[
+            "Q35120",
+            "Q488383",
+            "Q386724",
+            "Q7184903"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/JohnIIIVatatzesGoldHyperpyronMagnesia.jpg",
+         "enDesc":"Byzantine coin in use during the late Middle Ages",
+         "enName":"hyperpyron",
+         "itDesc":"",
+         "itName":"hyperpyron"
+      },
+      "Q801":{
+         "_id":"Q801",
+         "role":[
+            
+         ],
+         "type":[
+            "Q35120",
+            "Q35120",
+            "Q488383",
+            "Q488383",
+            "Q27096213",
+            "Q27096213",
+            "Q17334923",
+            "Q17334923",
+            "Q43229",
+            "Q43229"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Israel%20Batch%201%20%28115%29.JPG",
+         "enDesc":"country in Western Asia",
+         "enName":"Israel",
+         "itDesc":"Stato sovrano dell'Asia occidentale",
+         "itName":"Israele",
+         "foundation":"1948-05-14"
+      },
+      "Q199688":{
+         "_id":"Q199688",
+         "role":[
+            
+         ],
+         "type":[
+            "Q7184903",
+            "Q17334923",
+            "Q35120",
+            "Q43229",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"",
+         "enDesc":"1121\u20131269 Berber empire in North Africa and Iberia",
+         "enName":"Almohad Caliphate",
+         "itDesc":"dinastia musulmana (1121-1269)",
+         "itName":"Almohadi",
+         "foundation":"1121"
+      },
+      "Q111521920":{
+         "_id":"Q111521920",
+         "role":[
+            "Q43845",
+            "Q641208",
+            "Q3330547",
+            "Q43845",
+            "Q641208",
+            "Q3330547",
+            "Q43845",
+            "Q641208",
+            "Q3330547"
+         ],
+         "type":[
+            "Q35120",
+            "Q5",
+            "Q5",
+            "Q488383",
+            "Q35120",
+            "Q35120",
+            "Q5",
+            "Q488383",
+            "Q488383"
+         ],
+         "birth":"1110",
+         "death":"1170",
+         "image":"",
+         "enDesc":"Italian chronicler (12th century)",
+         "enName":"Oberto Nasello",
+         "itDesc":"cronista italiano (XII secolo)",
+         "itName":"Oberto Nasello"
+      },
+      "Q48":{
+         "_id":"Q48",
+         "role":[
+            
+         ],
+         "type":[
+            "Q17334923",
+            "Q35120",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Asia%20satellite%20orthographic.jpg",
+         "enDesc":"continent on Earth, mainly on the Earth's northeastern quadrant",
+         "enName":"Asia",
+         "itDesc":"continente",
+         "itName":"Asia"
+      },
+      "Q299156":{
+         "_id":"Q299156",
+         "role":[
+            "Q82955",
+            "Q637935",
+            "Q186370",
+            "Q637935",
+            "Q82955",
+            "Q21095877",
+            "Q186370",
+            "Q21095877",
+            "Q82955",
+            "Q38673587",
+            "Q186370",
+            "Q38673587",
+            "Q82955",
+            "Q58631963",
+            "Q186370",
+            "Q58631963",
+            "Q82955",
+            "Q83735546",
+            "Q186370",
+            "Q83735546",
+            "Q36834",
+            "Q637935",
+            "Q49757",
+            "Q637935",
+            "Q36834",
+            "Q21095877",
+            "Q49757",
+            "Q21095877",
+            "Q36834",
+            "Q38673587",
+            "Q49757",
+            "Q38673587",
+            "Q36834",
+            "Q58631963",
+            "Q49757",
+            "Q58631963",
+            "Q36834",
+            "Q83735546",
+            "Q49757",
+            "Q83735546",
+            "Q82955",
+            "Q637935",
+            "Q186370",
+            "Q637935",
+            "Q82955",
+            "Q21095877",
+            "Q186370",
+            "Q21095877",
+            "Q82955",
+            "Q38673587",
+            "Q186370",
+            "Q38673587",
+            "Q82955",
+            "Q58631963",
+            "Q186370",
+            "Q58631963",
+            "Q82955",
+            "Q83735546",
+            "Q186370",
+            "Q83735546",
+            "Q36834",
+            "Q637935",
+            "Q49757",
+            "Q637935",
+            "Q36834",
+            "Q21095877",
+            "Q49757",
+            "Q21095877",
+            "Q36834",
+            "Q38673587",
+            "Q49757",
+            "Q38673587",
+            "Q36834",
+            "Q58631963",
+            "Q49757",
+            "Q58631963",
+            "Q36834",
+            "Q83735546",
+            "Q49757",
+            "Q83735546",
+            "Q82955",
+            "Q637935",
+            "Q186370",
+            "Q637935",
+            "Q82955",
+            "Q21095877",
+            "Q186370",
+            "Q21095877",
+            "Q82955",
+            "Q38673587",
+            "Q186370",
+            "Q38673587",
+            "Q82955",
+            "Q58631963",
+            "Q186370",
+            "Q58631963",
+            "Q82955",
+            "Q83735546",
+            "Q186370",
+            "Q83735546",
+            "Q36834",
+            "Q637935",
+            "Q49757",
+            "Q637935",
+            "Q36834",
+            "Q21095877",
+            "Q49757",
+            "Q21095877",
+            "Q36834",
+            "Q38673587",
+            "Q49757",
+            "Q38673587",
+            "Q36834",
+            "Q58631963",
+            "Q49757",
+            "Q58631963",
+            "Q36834",
+            "Q83735546",
+            "Q49757",
+            "Q83735546"
+         ],
+         "type":[
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120"
+         ],
+         "birth":"1157-04-01",
+         "death":"1196-05-02",
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Alfonso%20II%20de%20Arag%C3%B3n%20from%20Liber%20feudorum%20maior.jpg",
+         "enDesc":"Aragonese monarch (1157-1196)",
+         "enName":"Alfonso II of Aragon",
+         "itDesc":"sovrano",
+         "itName":"Alfonso II d'Aragona"
+      },
+      "Q1383532":{
+         "_id":"Q1383532",
+         "role":[
+            "Q42603",
+            "Q42603",
+            "Q42603"
+         ],
+         "type":[
+            "Q35120",
+            "Q488383",
+            "Q5"
+         ],
+         "birth":"1118",
+         "death":"1161-06-17",
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Andrea%20di%20Bonaiuto%20-%20Scenes%20from%20the%20Life%20of%20St%20Rainerus%20%28detail%29%20-%20WGA00312.jpg",
+         "enDesc":"Italian saint",
+         "enName":"Rainerius",
+         "itDesc":"religioso italiano",
+         "itName":"Ranieri Scacceri"
+      },
+      "Q101081":{
+         "_id":"Q101081",
+         "role":[
+            
+         ],
+         "type":[
+            "Q27096213",
+            "Q17334923",
+            "Q35120"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Lavender%20field%20and%20Mont%20Ventoux.jpg",
+         "enDesc":"region and historical province of southeastern France",
+         "enName":"Provence",
+         "itDesc":"regione storica francese",
+         "itName":"Provenza"
+      },
+      "Q1449":{
+         "_id":"Q1449",
+         "role":[
+            
+         ],
+         "type":[
+            "Q488383",
+            "Q27096213",
+            "Q17334923",
+            "Q35120",
+            "Q43229"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Genova%20panorama%20centro%20storico%20da%20villetta%20Di%20Negro.jpg",
+         "enDesc":"Italian city",
+         "enName":"Genoa",
+         "itDesc":"comune italiano, capoluogo dell'omonima citt\u00e0 metropolitana e della regione Liguria",
+         "itName":"Genova"
+      },
+      "U16817260263722057008":{
+         "_id":"U16817260263722057008",
+         "type":[
+            "Q5"
+         ],
+         "enDesc":"Membro di una famiglia aristocratica di Pisa",
+         "enName":"Marignano di Guido Marignani",
+         "itDesc":"Membro aristocratico di Pisa",
+         "itName":"Marignano di Guido Marignani"
+      },
+      "Q234924":{
+         "_id":"Q234924",
+         "role":[
+            
+         ],
+         "type":[
+            "Q17334923",
+            "Q35120",
+            "Q43229",
+            "Q27096213"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Tarascon%20Le%20Chateau.jpg",
+         "enDesc":"commune in Bouches-du-Rh\u00f4ne, France",
+         "enName":"Tarascon",
+         "itDesc":"comune francese",
+         "itName":"Tarascona"
+      },
+      "Q478057":{
+         "_id":"Q478057",
+         "role":[
+            "Q2478141",
+            "Q2478141",
+            "Q2478141",
+            "Q2478141",
+            "Q2478141",
+            "Q2478141"
+         ],
+         "type":[
+            "Q5",
+            "Q35120",
+            "Q35120",
+            "Q488383",
+            "Q488383",
+            "Q5"
+         ],
+         "birth":"1134",
+         "death":"1194",
+         "image":"",
+         "enDesc":"Occitan noble",
+         "enName":"Raymond V, Count of Toulouse",
+         "itDesc":"aristocratico francese",
+         "itName":"Raimondo V di Tolosa"
+      },
+      "Q5765":{
+         "_id":"Q5765",
+         "role":[
+            
+         ],
+         "type":[
+            "Q17334923",
+            "Q35120",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/ConsolatdeMar2.jpg",
+         "enDesc":"archipelago in the Mediterranean Sea",
+         "enName":"Balearic Islands",
+         "itDesc":"arcipelago nel mar Mediterraneo",
+         "itName":"isole Baleari"
+      },
+      "Q45":{
+         "_id":"Q45",
+         "role":[
+            
+         ],
+         "type":[
+            "Q488383",
+            "Q27096213",
+            "Q17334923",
+            "Q35120",
+            "Q43229"
+         ],
+         "image":"",
+         "enDesc":"country in Southwestern Europe",
+         "enName":"Portugal",
+         "itDesc":"Stato membro dell'Unione Europea",
+         "itName":"Portogallo",
+         "foundation":"1179-05-30"
+      },
+      "U16791605256468967742":{
+         "_id":"U16791605256468967742",
+         "type":[
+            "Q5"
+         ],
+         "enDesc":"Console pisano nel 1164",
+         "enName":"Alemanno Dodi",
+         "itDesc":"Console pisano nel 1164",
+         "itName":"Alemanno Dodi"
+      },
+      "U16777486613468820115":{
+         "_id":"U16777486613468820115",
+         "type":[
+            "other"
+         ],
+         "enDesc":"Atto notarile che cerca di preservare la memoria di un evento",
+         "enName":"Brevi of the consuls of Pisa ",
+         "itDesc":"Resoconti del lavori dei consoli nel comune di Pisa",
+         "itName":"Brevi of the consuls of Pisa "
+      },
+      "Q12837":{
+         "_id":"Q12837",
+         "role":[
+            
+         ],
+         "type":[
+            "Q17334923",
+            "Q35120",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Espa%C3%B1a%20y%20Portugal.jpg",
+         "enDesc":"peninsula located in the extreme southwest of Europe",
+         "enName":"Iberian Peninsula",
+         "itDesc":"penisola europea",
+         "itName":"penisola iberica"
+      },
+      "U16787863549985225446":{
+         "_id":"U16787863549985225446",
+         "type":[
+            "Q5"
+         ],
+         "enDesc":"Capostipite della famiglia pisana dei Casalei ",
+         "enName":"Leone de Babilonia Casalei",
+         "itDesc":"Capostipite della famiglia pisana dei Casalei ",
+         "itName":"Leone de Babilonia Casalei"
+      },
+      "Q79":{
+         "_id":"Q79",
+         "role":[
+            
+         ],
+         "type":[
+            "Q17334923",
+            "Q35120",
+            "Q43229",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"",
+         "enDesc":"sovereign state in North Africa and Asia",
+         "enName":"Egypt",
+         "itDesc":"stato dell'Africa del nord",
+         "itName":"Egitto",
+         "foundation":"1922-02-28"
+      },
+      "Q3930093":{
+         "_id":"Q3930093",
+         "role":[
+            "Q82955",
+            "Q193391",
+            "Q82955",
+            "Q193391",
+            "Q82955",
+            "Q193391"
+         ],
+         "type":[
+            "Q488383",
+            "Q488383",
+            "Q5",
+            "Q5",
+            "Q35120",
+            "Q35120"
+         ],
+         "birth":"1101",
+         "death":"1170",
+         "image":"",
+         "enDesc":"Italian politician",
+         "enName":"Ranieri Bottacci",
+         "itDesc":"politico e diplomatico italiano",
+         "itName":"Ranieri Bottacci"
+      },
+      "Q43":{
+         "_id":"Q43",
+         "role":[
+            
+         ],
+         "type":[
+            "Q488383",
+            "Q27096213",
+            "Q17334923",
+            "Q43229",
+            "Q35120"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Anatolia%20composite%20NASA.png",
+         "enDesc":"transcontinental country straddling Western Asia and Southeastern Europe",
+         "enName":"Turkey",
+         "itDesc":"stato transcontinentale",
+         "itName":"Turchia",
+         "foundation":"1923-10-29"
+      },
+      "U16780973104321488608":{
+         "_id":"U16780973104321488608",
+         "type":[
+            "Q5"
+         ],
+         "enDesc":"Console pisano del XII sec",
+         "enName":"Guido di Bella ",
+         "itDesc":"Console pisano del XII sec",
+         "itName":"Guido di Bella "
+      },
+      "Q28227":{
+         "_id":"Q28227",
+         "role":[
+            
+         ],
+         "type":[
+            "Q27096213",
+            "Q17334923",
+            "Q35120"
+         ],
+         "image":"",
+         "enDesc":"part of North Africa",
+         "enName":"Maghreb",
+         "itDesc":"area del Nordafrica",
+         "itName":"Maghreb"
+      },
+      "U16817260668653911702":{
+         "_id":"U16817260668653911702",
+         "type":[
+            "Q5"
+         ],
+         "enDesc":"Treguano del comune di Pisa",
+         "enName":"Ranieri di Corso ",
+         "itDesc":"Treguano del comune di Pisa",
+         "itName":"Ranieri di Corso "
+      },
+      "U16781824698248480602":{
+         "_id":"U16781824698248480602",
+         "type":[
+            "Q15222213"
+         ],
+         "enDesc":"Atto del vescovo di Pisa Daiberto",
+         "enName":"Lodo delle torri",
+         "itDesc":"Atto del vescovo di Pisa Daiberto",
+         "itName":"Lodo delle torri"
+      },
+      "U16787866748858747852":{
+         "_id":"U16787866748858747852",
+         "type":[
+            "Q5"
+         ],
+         "enDesc":"Figlio di Leone de Babilonia Casalei",
+         "enName":"Guido de Babilonia Casalei",
+         "itDesc":"Figlio di Leone de Babilonia Casalei",
+         "itName":"Guido de Babilonia Casalei"
+      },
+      "Q1218":{
+         "_id":"Q1218",
+         "role":[
+            
+         ],
+         "type":[
+            "Q17334923",
+            "Q35120",
+            "Q7184903",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Jerusalem%20Dome%20of%20the%20rock%20BW%2014.JPG",
+         "enDesc":"city in Western Asia, claimed by both Israel and the Palestinian Authority as its capital",
+         "enName":"Jerusalem",
+         "itDesc":"citt\u00e0 del Vicino Oriente, sacra per le tre religioni abramitiche",
+         "itName":"Gerusalemme",
+         "foundation":"-4000"
+      },
+      "Q8581":{
+         "_id":"Q8581",
+         "role":[
+            "Q11545923",
+            "Q166382",
+            "Q11545923",
+            "Q4115925",
+            "Q11545923",
+            "Q28478697",
+            "Q11545923",
+            "Q52770826",
+            "Q11545923",
+            "Q53709195",
+            "Q11545923",
+            "Q54826155",
+            "Q47064",
+            "Q166382",
+            "Q47064",
+            "Q4115925",
+            "Q47064",
+            "Q28478697",
+            "Q47064",
+            "Q52770826",
+            "Q47064",
+            "Q53709195",
+            "Q47064",
+            "Q54826155",
+            "Q11545923",
+            "Q166382",
+            "Q11545923",
+            "Q4115925",
+            "Q11545923",
+            "Q28478697",
+            "Q11545923",
+            "Q52770826",
+            "Q11545923",
+            "Q53709195",
+            "Q11545923",
+            "Q54826155",
+            "Q47064",
+            "Q166382",
+            "Q47064",
+            "Q4115925",
+            "Q47064",
+            "Q28478697",
+            "Q47064",
+            "Q52770826",
+            "Q47064",
+            "Q53709195",
+            "Q47064",
+            "Q54826155",
+            "Q11545923",
+            "Q166382",
+            "Q11545923",
+            "Q4115925",
+            "Q11545923",
+            "Q28478697",
+            "Q11545923",
+            "Q52770826",
+            "Q11545923",
+            "Q53709195",
+            "Q11545923",
+            "Q54826155",
+            "Q47064",
+            "Q166382",
+            "Q47064",
+            "Q4115925",
+            "Q47064",
+            "Q28478697",
+            "Q47064",
+            "Q52770826",
+            "Q47064",
+            "Q53709195",
+            "Q47064",
+            "Q54826155"
+         ],
+         "type":[
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120"
+         ],
+         "birth":"1138",
+         "death":"1193-03-11",
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Saladin%20Soldan%20d%27Egypte%20%28BM%201879%2C1213.302%29.jpg",
+         "enDesc":"founder and first sultan of the Ayyubid dynasty (1137\u20131193)",
+         "enName":"Saladin",
+         "itDesc":"sultano di Egitto, Siria e Hijaz",
+         "itName":"Saladino"
+      },
+      "Q268731":{
+         "_id":"Q268731",
+         "role":[
+            "Q82955",
+            "Q82955",
+            "Q82955"
+         ],
+         "type":[
+            "Q488383",
+            "Q5",
+            "Q35120"
+         ],
+         "birth":"1182",
+         "death":"1213-04-21",
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pedro2%20marie.jpg",
+         "enDesc":"Queen of Aragon (1182-1213)",
+         "enName":"Maria of Montpellier",
+         "itDesc":"politica francese",
+         "itName":"Maria di Montpellier"
+      },
+      "Q528564":{
+         "_id":"Q528564",
+         "role":[
+            "Q116",
+            "Q166382",
+            "Q116",
+            "Q166382",
+            "Q116",
+            "Q166382"
+         ],
+         "type":[
+            "Q5",
+            "Q35120",
+            "Q488383"
+         ],
+         "birth":"1124",
+         "death":"1172-04-04",
+         "image":"",
+         "enDesc":"Emir of Murcia",
+         "enName":"Ab\u016b \u02bfAbd All\u0101h Mu\u1e25ammad ibn Sa\u02bfd ibn Mardan\u012bsh",
+         "itDesc":"",
+         "itName":"Muhammad ibn Mardanish"
+      },
+      "U16817261075087405883":{
+         "_id":"U16817261075087405883",
+         "type":[
+            "Q5"
+         ],
+         "enDesc":"Console di Pisa nel 1174",
+         "enName":"Ildebrando Sismondi",
+         "itDesc":"Console di Pisa nel 1174",
+         "itName":"Ildebrando Sismondi"
+      },
+      "Q7880":{
+         "_id":"Q7880",
+         "role":[
+            
+         ],
+         "type":[
+            "Q17334923",
+            "Q35120",
+            "Q43229",
+            "Q27096213"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Toulouse%20-%20View%20on%20Saint%20Sernin.jpg",
+         "enDesc":"French commune in the Haute-Garonne department, Occitania",
+         "enName":"Toulouse",
+         "itDesc":"citt\u00e0 della Francia, capoluogo dell'Alta Garonna",
+         "itName":"Tolosa"
+      },
+      "U1678704799989624075":{
+         "_id":"U1678704799989624075",
+         "type":[
+            "Q5"
+         ],
+         "enDesc":"Visir del califfo d'Egitto Zafir ",
+         "enName":"Abu-l-Fadhl-Abbas",
+         "itDesc":"Visir del califfo d'Egitto Zafir ",
+         "itName":"Abu-l-Fadhl-Abbas"
+      },
+      "Q1248202":{
+         "_id":"Q1248202",
+         "role":[
+            
+         ],
+         "type":[
+            "Q35120",
+            "Q7184903",
+            "Q488383",
+            "Q386724",
+            "Q8205328"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Almoravid%20gold%20dinar%20coin%20from%20Seville%2C%20Spain%2C%201116%20British%20Museum.jpg",
+         "enDesc":"historic Iberian currency",
+         "enName":"Spanish maraved\u00ed",
+         "itDesc":"antica moneta spagnola",
+         "itName":"Maraved\u00ed",
+         "foundation2":"1200"
+      },
+      "Q315058":{
+         "_id":"Q315058",
+         "role":[
+            "Q1097498",
+            "Q637935",
+            "Q1250916",
+            "Q637935",
+            "Q1097498",
+            "Q38673587",
+            "Q1250916",
+            "Q38673587",
+            "Q1097498",
+            "Q58631963",
+            "Q1250916",
+            "Q58631963",
+            "Q1097498",
+            "Q98768258",
+            "Q1250916",
+            "Q98768258",
+            "Q116",
+            "Q637935",
+            "Q116",
+            "Q38673587",
+            "Q116",
+            "Q58631963",
+            "Q116",
+            "Q98768258",
+            "Q1097498",
+            "Q637935",
+            "Q1250916",
+            "Q637935",
+            "Q1097498",
+            "Q38673587",
+            "Q1250916",
+            "Q38673587",
+            "Q1097498",
+            "Q58631963",
+            "Q1250916",
+            "Q58631963",
+            "Q1097498",
+            "Q98768258",
+            "Q1250916",
+            "Q98768258",
+            "Q116",
+            "Q637935",
+            "Q116",
+            "Q38673587",
+            "Q116",
+            "Q58631963",
+            "Q116",
+            "Q98768258",
+            "Q1097498",
+            "Q637935",
+            "Q1250916",
+            "Q637935",
+            "Q1097498",
+            "Q38673587",
+            "Q1250916",
+            "Q38673587",
+            "Q1097498",
+            "Q58631963",
+            "Q1250916",
+            "Q58631963",
+            "Q1097498",
+            "Q98768258",
+            "Q1250916",
+            "Q98768258",
+            "Q116",
+            "Q637935",
+            "Q116",
+            "Q38673587",
+            "Q116",
+            "Q58631963",
+            "Q116",
+            "Q98768258"
+         ],
+         "type":[
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q35120",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q488383",
+            "Q5",
+            "Q5",
+            "Q5",
+            "Q5"
+         ],
+         "birth":"1177",
+         "death":"1213-09-19",
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pietro%20II%20d%27Arag%C3%B3n.jpg",
+         "enDesc":"King of Aragon from 1196 to 1213",
+         "enName":"Peter II of Aragon",
+         "itDesc":"politico spagnolo",
+         "itName":"Pietro II di Aragona"
+      },
+      "Q345844":{
+         "_id":"Q345844",
+         "role":[
+            
+         ],
+         "type":[
+            "other"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/STS-112%20crew.jpg",
+         "enDesc":"group of people who work at a common activity, generally in a structured organization",
+         "enName":"crew",
+         "itDesc":"gruppo di persone che partecipa ad una attivit\u00e0 comune",
+         "itName":"equipaggio"
+      },
+      "Q8125715":{
+         "_id":"Q8125715",
+         "role":[
+            
+         ],
+         "type":[
+            "Q35120",
+            "Q488383",
+            "Q5",
+            "Q35120",
+            "Q488383",
+            "Q5"
+         ],
+         "birth":"1090",
+         "death":"1173",
+         "image":"",
+         "enDesc":"",
+         "enName":"William Ramon of Montcada",
+         "itDesc":"",
+         "itName":"Guglielmo Raimondo I di Moncada"
+      },
+      "Q1431762":{
+         "_id":"Q1431762",
+         "role":[
+            
+         ],
+         "type":[
+            "Q488383",
+            "Q7184903",
+            "Q386724",
+            "Q35120"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ambrosino%202.jpg",
+         "enDesc":"Italian medieval silver coin",
+         "enName":"soldo",
+         "itDesc":"moneta medievale italiana",
+         "itName":"soldo"
+      },
+      "Q918950":{
+         "_id":"Q918950",
+         "role":[
+            "Q2478141",
+            "Q2478141",
+            "Q2478141"
+         ],
+         "type":[
+            "Q488383",
+            "Q5",
+            "Q35120"
+         ],
+         "birth":"1158",
+         "death":"1181-04-05",
+         "image":"",
+         "enDesc":"Aragonese infante",
+         "enName":"Ramon Berenguer III, Count of Provence",
+         "itDesc":"aristocratico francese",
+         "itName":"Raimondo Berengario III di Provenza"
+      },
+      "Q1228696":{
+         "_id":"Q1228696",
+         "role":[
+            
+         ],
+         "type":[
+            "Q35120",
+            "Q35120",
+            "Q488383",
+            "Q488383",
+            "Q5",
+            "Q5"
+         ],
+         "birth":"1162",
+         "death":"1203",
+         "image":"",
+         "enDesc":"Spouse of William VIII of Montpellier",
+         "enName":"Eudokia Komnene",
+         "itDesc":"",
+         "itName":"Eudocia Comnena (signora di Montpellier)"
+      },
+      "Q142":{
+         "_id":"Q142",
+         "role":[
+            
+         ],
+         "type":[
+            "Q17334923",
+            "Q43229",
+            "Q35120",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Paris%20from%20the%20Arc%20de%20Triomphe%2C%2017%20October%202019.jpg",
+         "enDesc":"country in Western Europe",
+         "enName":"France",
+         "itDesc":"stato dell'Europa occidentale, membro dell'Unione Europea",
+         "itName":"Francia",
+         "foundation":"1792"
+      },
+      "U16796510008045580200":{
+         "_id":"U16796510008045580200",
+         "type":[
+            "Q15222213"
+         ],
+         "enDesc":"Moneta del XII secolo",
+         "enName":"Melgueil",
+         "itDesc":"Moneta del XII secolo",
+         "itName":"Melgueil"
+      },
+      "Q210098":{
+         "_id":"Q210098",
+         "role":[
+            
+         ],
+         "type":[
+            "Q17334923",
+            "Q35120",
+            "Q43229",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Montallegro%20cableway%20and%20sanctuary%2020.JPG",
+         "enDesc":"Italian comune",
+         "enName":"Rapallo",
+         "itDesc":"comune italiano",
+         "itName":"Rapallo"
+      },
+      "Q199442":{
+         "_id":"Q199442",
+         "role":[
+            
+         ],
+         "type":[
+            "Q17334923",
+            "Q35120",
+            "Q43229",
+            "Q488383",
+            "Q27096213",
+            "Q7184903"
+         ],
+         "image":"",
+         "enDesc":"medieval and early modern kingdom in the Iberian Peninsula (1035-1707)",
+         "enName":"Kingdom of Aragon",
+         "itDesc":"Regno spagnolo esistito dal 1035 al 1707",
+         "itName":"Regno d'Aragona",
+         "foundation":"1035"
+      },
+      "Q1226306":{
+         "_id":"Q1226306",
+         "role":[
+            
+         ],
+         "type":[
+            "Q35120",
+            "Q488383",
+            "Q5",
+            "Q35120",
+            "Q488383",
+            "Q5",
+            "Q35120",
+            "Q488383",
+            "Q5"
+         ],
+         "birth":"1157",
+         "death":"1203-09-01",
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sag%C3%A8lGuilh%C3%A8mVIII.jpg",
+         "enDesc":"Lord of montpellier",
+         "enName":"William VIII of Montpellier",
+         "itDesc":"",
+         "itName":""
+      },
+      "Q29":{
+         "_id":"Q29",
+         "role":[
+            
+         ],
+         "type":[
+            "Q43229",
+            "Q488383",
+            "Q27096213",
+            "Q488383",
+            "Q27096213",
+            "Q17334923",
+            "Q35120",
+            "Q43229",
+            "Q17334923",
+            "Q35120",
+            "Q488383",
+            "Q27096213",
+            "Q43229",
+            "Q17334923",
+            "Q35120",
+            "Q488383",
+            "Q27096213",
+            "Q17334923",
+            "Q43229",
+            "Q35120",
+            "Q43229",
+            "Q17334923",
+            "Q35120",
+            "Q488383",
+            "Q27096213"
+         ],
+         "image":"",
+         "enDesc":"country in southwestern Europe with territories in Africa",
+         "enName":"Spain",
+         "itDesc":"stato dell'Europa sud-occidentale, membro dell'Unione europea",
+         "itName":"Spagna",
+         "foundation":"1931-12-09"
+      },
+      "Q1028":{
+         "_id":"Q1028",
+         "role":[
+            
+         ],
+         "type":[
+            "Q35120",
+            "Q7184903",
+            "Q35120",
+            "Q7184903",
+            "Q488383",
+            "Q27096213",
+            "Q488383",
+            "Q27096213",
+            "Q386724",
+            "Q17334923",
+            "Q386724",
+            "Q17334923",
+            "Q43229",
+            "Q43229"
+         ],
+         "image":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/TBOURIDA%20Festival%20at%20Sidi%20Yahya%20Oasis%202%20-%20Oujda%20Morocco%20by%20Brahim%20FARAJI.jpg",
+         "enDesc":"sovereign state in North Africa",
+         "enName":"Morocco",
+         "itDesc":"Stato del Nordafrica",
+         "itName":"Marocco",
+         "foundation":"0789"
+      }
+   },
+   "narra":{
+      "id":"1290",
+      "_id":"A1",
+      "name":"Trapelicino IT",
+      "author":"giulia.56",
+      "idNarra":"1290"
+   },
+   "events":{
+     "ev1679405100722": {
+  "_id": "ev1679405100722",
+  "end": "1170-09-31",
+  "date": "1170-1170",
+  "text": {
+    "text": "<p> Durante lo svolgimento della guerra Trapelicino fu dirottato nel Golfo di Leone, dove venne a conoscenza che una nave pisana con a bordo nobiluomini pisani si stava dirigendo verso la Sardegna.</p>\n\n<p> Saputa la notizia Trapelicino si mise all'inseguimento con tre galee e in cambio di un lauto compenso catturò i suoi ex-connazionali.</p><h5>Entities</h5><span class=\"tl-entities\"><a onmouseover='$(this).tooltip(); $(this).tooltip(\"show\")' data-toggle='tooltip' title='continent' target='_blank' target='_blank' href='https://www.wikidata.org/wiki/Q46'>Europe</a> • <a onmouseover='$(this).tooltip(); $(this).tooltip(\"show\")' data-toggle='tooltip' title='country in Western Europe' target='_blank' target='_blank' href='https://www.wikidata.org/wiki/Q142'>France</a> • <a onmouseover='$(this).tooltip(); $(this).tooltip(\"show\")' data-toggle='tooltip' title='Italian city' target='_blank' target='_blank' href='https://www.wikidata.org/wiki/Q1449'>Genoa</a> • <a onmouseover='$(this).tooltip(); $(this).tooltip(\"show\")' data-toggle='tooltip' title='private person or ship authorized by a government to attack foreign shipping' target='_blank' target='_blank' href='https://www.wikidata.org/wiki/Q201559'>privateer</a> • <a onmouseover='$(this).tooltip(); $(this).tooltip(\"show\")' data-toggle='tooltip' title='bay' target='_blank' target='_blank' href='https://www.wikidata.org/wiki/Q210118'>Gulf of Lion</a> • <a onmouseover='$(this).tooltip(); $(this).tooltip(\"show\")' data-toggle='tooltip' title='Italian privateer' target='_blank' target='_blank' href='https://www.wikidata.org/wiki/Q16617548'>Trapelicino</a> • <a onmouseover='$(this).tooltip(); $(this).tooltip(\"show\")' data-toggle='tooltip' title='Guerra di tipo commerciale' target='_blank' target='_blank' href='https://tool.dlnarratives.eu/CustomEntity/?idU=U16776666987274462430&user=giulia.56&idN=1290&subject=Q16617548'>Maritime warfare</a></span><h5>Digital Objects</h5><span class=\"digObjList\"><a href=\"https://resources.warburg.sas.ac.uk/pdf/hnh1207b2492453.pdf\" target=\"_blank\">Luigi Tommaso Belgrano, Annali genovesi di Caffaro e de' suoi continuatori, Roma: Istituto storico per il Medioevo,1890. pp, 175-178</a></span>",
+    "headline": "L'intervento di Trapelicino nella guerra: La cattura dei nobiluomini pisani"
+  },
+  "type": "historical event",
+  "media": {
+    "url": "https://tool.dlnarratives.eu/images/1290-giulia.56-ev1679405100722.jpeg",
+    "caption": "Veduta del porto di Portovenere e del Golfo del Leone, zone d'azione in cui operò Trapelicino per conto di Genova. Google Earth.",
+    "mediatype": {
+      "url": "https://tool.dlnarratives.eu/images/1290-giulia.56-ev1679405100722.jpeg",
+      "name": "Image",
+      "type": "image",
+      "match_str": {}
+    }
+  },
+  "notes": "",
+  "props": {
+    "Q46": {
+      "class": "place",
+      "notes": "",
+      "title": "Europe",
+      "primary": [
+        {
+          "text": "",
+          "title": "",
+          "author": "",
+          "reference": ""
+        }
+      ],
+      "secondary": [
+        {
+          "text": "",
+          "title": "",
+          "author": "",
+          "reference": ""
+        }
+      ]
+    },
+    "Q142": {
+      "class": "place",
+      "notes": "",
+      "title": "France",
+      "primary": [
+        {
+          "text": "",
+          "title": "",
+          "author": "",
+          "reference": ""
+        }
+      ],
+      "secondary": [
+        {
+          "text": "",
+          "title": "",
+          "author": "",
+          "reference": ""
+        }
+      ]
+    },
+    "Q1449": {
+      "class": "place",
+      "notes": "",
+      "title": "Genoa",
+      "primary": [
+        {
+          "text": "",
+          "title": "",
+          "author": "",
+          "reference": ""
+        }
+      ],
+      "secondary": [
+        {
+          "text": "",
+          "title": "",
+          "author": "",
+          "reference": ""
+        }
+      ]
+    },
+    "Q201559": {
+      "class": "other",
+      "notes": "",
+      "title": "privateer",
+      "primary": [
+        {
+          "text": "",
+          "title": "",
+          "author": "",
+          "reference": ""
+        }
+      ],
+      "secondary": [
+        {
+          "text": "",
+          "title": "",
+          "author": "",
+          "reference": ""
+        }
+      ]
+    },
+    "Q210118": {
+      "class": "place",
+      "notes": "",
+      "title": "Gulf of Lion",
+      "primary": [
+        {
+          "text": "",
+          "title": "",
+          "author": "",
+          "reference": ""
+        }
+      ],
+      "secondary": [
+        {
+          "text": "",
+          "title": "",
+          "author": "",
+          "reference": ""
+        }
+      ]
+    },
+    "Q16617548": {
+      "role": "participant",
+      "class": "person",
+      "notes": "",
+      "title": "Trapelicino",
+      "primary": [
+        {
+          "text": "",
+          "title": "",
+          "author": "",
+          "reference": ""
+        }
+      ],
+      "secondary": [
+        {
+          "text": "",
+          "title": "",
+          "author": "",
+          "reference": ""
+        }
+      ]
+    },
+    "U16776666987274462430": {
+      "class": "concept",
+      "notes": "",
+      "title": "Maritime warfare",
+      "primary": [
+        {
+          "text": "",
+          "title": "",
+          "author": "",
+          "reference": ""
+        }
+      ],
+      "secondary": [
+        {
+          "text": "",
+          "title": "",
+          "author": "",
+          "reference": ""
+        }
+      ]
+    }
+  },
+  "start": "1170-05-01",
+  "title": "L'intervento di Trapelicino nella guerra: La cattura dei nobiluomini pisani",
+  "objurl": [
+    {
+      "url": "https://resources.warburg.sas.ac.uk/pdf/hnh1207b2492453.pdf",
+      "title": "Luigi Tommaso Belgrano, Annali genovesi di Caffaro e de' suoi continuatori, Roma: Istituto storico per il Medioevo,1890. pp, 175-178"
+    }
+  ],
+  "latitud": "42.996389",
+  "end_date": {
+    "day": 1,
+    "year": 1170,
+    "month": 10
+  },
+  "location": {
+    "lat": 42.996389,
+    "lon": 4.000278,
+    "line": true,
+    "name": "Kent County, Maryland",
+    "zoom": 7
+  },
+  "longitud": "4.000278",
+  "position": 20,
+  "unique_id": "slide-ev1679405100722",
+  "eventMedia": "https://tool.dlnarratives.eu/images/1290-giulia.56-ev1679405100722.jpeg",
+  "start_date": {
+    "day": 1,
+    "year": 1170,
+    "month": 5
+  },
+  "description": "<p> Durante lo svolgimento della guerra Trapelicino fu dirottato nel Golfo di Leone, dove venne a conoscenza che una nave pisana con a bordo nobiluomini pisani si stava dirigendo verso la Sardegna.</p>\n\n<p> Saputa la notizia Trapelicino si mise all'inseguimento con tre galee e in cambio di un lauto compenso catturò i suoi ex-connazionali.</p>",
+  "mapMarkerColor": "#e6e600",
+  "eventMediaCaption": "Veduta del porto di Portovenere e del Golfo del Leone, zone d'azione in cui operò Trapelicino per conto di Genova. Google Earth."
+}
+   }
+}
